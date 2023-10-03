@@ -4,8 +4,6 @@
 💞️ Open to collaboration    
 📫 Reach me at: vesnapopdimitrijoska@gmail.com    
 
-💻 Tech Stack:
-[Python]
 
 
 <!---
