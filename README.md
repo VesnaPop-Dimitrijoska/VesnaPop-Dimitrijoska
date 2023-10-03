@@ -1,7 +1,11 @@
 👋 Hi, I'm @VesnaPop-Dimitrijoska
+
 👀 Passionate about Data Science
+
 🌱 Currently diving into Machine Learning
+
 💞️ Open to collaboration
+
 📫 Reach me at: vesnapopdimitrijoska@gmail.com
 
 
