@@ -1,6 +1,6 @@
 👋 Hi, I'm @VesnaPop-Dimitrijoska   
 👀 Passionate about Data Science    
-🌱 Currently diving into Machine Learning, Deep Neural Networks and GenAI 
+🌱 Currently diving into Machine Learning, Deep Neural Networks and GenAI        
 💞️ Open to collaboration    
 📫 Reach me at: vesnapopdimitrijoska@gmail.com    
 
