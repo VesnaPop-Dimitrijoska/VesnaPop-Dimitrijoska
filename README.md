@@ -1,6 +1,7 @@
 👋 Hi, I'm Vesna  
-👀 Passionate about Data Science    
-🌱 Currently focused on Machine Learning, Deep Neural Networks, LLMs, and Generative AI.       
+👀 Passionate about Data Science and AI 
+🤖 Machine Learning Engineer
+🌱 Currently focused on Machine Learning, Deep Neural Networks, LLMs, and Generative AI      
 💞️ Open to collaboration    
 📫 Reach me at: vesnapopdimitrijoska@gmail.com    
 
